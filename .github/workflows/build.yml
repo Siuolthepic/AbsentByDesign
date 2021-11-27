@@ -15,7 +15,7 @@ jobs:
         # Use these Java versions
         java: [
           1.8
-          # ,  # Minimum supported by Minecraft
+          # ,  # Minimum supported by Minecraft a
           # 11,   # Current Java LTS
           # 15    # Latest version
         ]
